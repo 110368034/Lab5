@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5 java</string>
+    <string name="顯示Dialog">button</string>
+    <string name="自定義的Toast">toast</string>
+</resources>
